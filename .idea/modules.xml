@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/projeto-bootcamp.iml" filepath="$PROJECT_DIR$/.idea/projeto-bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bootcamp-deal-backend.iml" filepath="$PROJECT_DIR$/.idea/bootcamp-deal-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeto-bootcamp/projeto-bootcamp.iml" filepath="$PROJECT_DIR$/projeto-bootcamp/projeto-bootcamp.iml" />
     </modules>
   </component>
 </project>
